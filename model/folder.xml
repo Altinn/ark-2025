@@ -1,5 +1,6 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Target"
+    name="Altinn arkitekturmålbilde"
     id="9ad17608-2f64-4609-8927-12b93ea1ed2b"
+    purpose="Arkitekturmålbilde tar sikte på presentere et målbilde basert Altinns strategi.&#xA;&#xA;Dette målbildet vil endre seg i takt med strategien og vil typisk forsøke å se ca 5 år framover i tid."
     version="4.0.0"/>
