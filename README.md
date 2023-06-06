@@ -1,6 +1,6 @@
 # Arkitekturmålbilde 2025
 
-:construction:
+Arkivert! Innhold flyttet til https://github.com/Altinn/ark
 
 ## Spørsmål som vi ønsker å besvare med arkitekturen
 
